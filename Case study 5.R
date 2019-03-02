@@ -1,5 +1,5 @@
                     
-                    # CASE STUDY 5 -  ECOMMERCE WEB ANALYTICS
+                    # Project 5 -  ECOMMERCE WEB ANALYTICS
 
 # Getting the data
 
